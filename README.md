@@ -29,13 +29,13 @@ I'm focused on turning ideas into practical, reliable, and user-friendly softwar
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=flat)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat)
 
 ### Database & Cloud
 
@@ -43,11 +43,11 @@ I'm focused on turning ideas into practical, reliable, and user-friendly softwar
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-### AI & APIs
+### AI
 
-![AI](https://img.shields.io/badge/AI-000000?style=flat)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-000000?style=flat)
 ![LLM](https://img.shields.io/badge/LLM-4A4A4A?style=flat)
-![AI APIs](https://img.shields.io/badge/AI%20APIs-5C5C5C?style=flat)
+![AI APIs](https://img.shields.io/badge/AI_APIs-5C5C5C?style=flat)
 
 ---
 
@@ -85,25 +85,28 @@ A developer-focused AI project built around AI-assisted development and producti
 
 A technology platform focused on modern websites, web applications, AI-powered solutions, and digital products.
 
-🌐 [Visit DevCart Technologies](https://devcart-technologies.in/)
+🌐 **Website:** [devcart-technologies.in](https://devcart-technologies.in/)
 
 **Focus:** Web Development • AI • Digital Products • Technology
 
 ---
 
-## 📊 GitHub
+## 🔨 What I Work On
 
-I actively work on software projects, AI applications, experiments, and real-world products.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivek-dalvi&show_icons=true&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-dalvi&layout=compact&hide_border=true)
+- AI applications and integrations
+- Full-stack web platforms
+- Modern frontend experiences
+- Backend APIs and services
+- Database-driven applications
+- Cloud deployments
+- Developer-focused tools
+- Digital products
 
 ---
 
 ## 🏢 DevCart Technologies
 
-**DevCart Technologies** is focused on building modern digital solutions, web applications, AI-powered products, and technology services.
+**DevCart Technologies** focuses on building modern digital solutions, web applications, AI-powered products, and technology services.
 
 🌐 **Website:** [devcart-technologies.in](https://devcart-technologies.in/)
 
@@ -111,13 +114,13 @@ I actively work on software projects, AI applications, experiments, and real-wor
 
 ---
 
-## 🌐 Connect
+## 📬 Contact
 
-🌍 **DevCart Technologies:** [devcart-technologies.in](https://devcart-technologies.in/)
+🌐 **DevCart Technologies:** [devcart-technologies.in](https://devcart-technologies.in/)
 
 📧 **Email:** [info@devcart-technologies.in](mailto:info@devcart-technologies.in)
 
-💼 **LinkedIn:** YOUR_LINKEDIN_URL
+💼 **LinkedIn:** Add your LinkedIn URL here
 
 ---
 
