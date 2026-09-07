@@ -120,7 +120,7 @@ A technology platform focused on modern websites, web applications, AI-powered s
 
 📧 **Email:** [info@devcart-technologies.in](mailto:info@devcart-technologies.in)
 
-💼 **LinkedIn:** Add your LinkedIn URL here
+💼 **LinkedIn:** [https://www.linkedin.com/in/vivek-dalvi-65923940b]
 
 ---
 
